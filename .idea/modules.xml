@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicRxJavaSample.iml" filepath="$PROJECT_DIR$/BasicRxJavaSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseicSample/baseicSample.iml" filepath="$PROJECT_DIR$/baseicSample/baseicSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githubSample/githubSample.iml" filepath="$PROJECT_DIR$/githubSample/githubSample.iml" />
+    </modules>
+  </component>
+</project>
